@@ -1,1 +1,14 @@
 /* Start coding here */
+
+* {
+    font-size: 1.4rem; /* เพิ่มขนาด font ทุก element ขึ้น 20% */
+ }
+
+@font-face {
+    font-family: 'iannnnnCPU';
+    src: url('./fonts/2005_iannnnnCPU.ttf') format('truetype');
+ }
+ 
+ body {
+    font-family: 'iannnnnCPU', sans-serif;
+ }
